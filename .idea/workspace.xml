@@ -10,8 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcfc061f-ded5-4592-a589-85ca66f66f64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/createUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -152,7 +155,8 @@
       <workItem from="1708667851965" duration="1098000" />
       <workItem from="1708671266634" duration="13000" />
       <workItem from="1708671368329" duration="278000" />
-      <workItem from="1708671722027" duration="623000" />
+      <workItem from="1708671722027" duration="892000" />
+      <workItem from="1708786172789" duration="801000" />
     </task>
     <servers />
   </component>
